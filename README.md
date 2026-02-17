@@ -1,6 +1,6 @@
 # 📝 To-Do List API
 
-A RESTful To-Do List API built using Spring Boot.  
+A RESTful To-Do List API built using Spring Boot .  
 This project demonstrates clean architecture, DTO mapping, service-layer design, and proper REST API practices.
 
 ---
